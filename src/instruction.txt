@@ -1,1 +1,2 @@
-*** Let's setup colors for 
+*** Let's setup colors for the projects from figma file
+## let's use the colors from  
